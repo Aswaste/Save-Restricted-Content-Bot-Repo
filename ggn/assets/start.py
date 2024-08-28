@@ -160,7 +160,7 @@ async def term_command(event):
         buttons=buttons
     )
 
-REPO_URL = "https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo"
+REPO_URL = "https://github.com/devgaganin/Save-Restricted-Content-Bot-Rep"
 
 HELP_TEXT = """Here are the available commands:
 
