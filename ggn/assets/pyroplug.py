@@ -1,4 +1,4 @@
-# Join t.me/devggn
+# Join t.me/devggn   I am just an editor/. devggn is real developer 
 
 import re
 import asyncio, time, os
